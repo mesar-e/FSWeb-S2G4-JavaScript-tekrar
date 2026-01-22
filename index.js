@@ -99,7 +99,7 @@ let ucetambolunenler,
 
 // 3a çözümü
 
-/* kodlar buraya */
+const deneme = "heh ben rastgel şeyler yazdım"
 
 // 3b çözümü:
 
